@@ -25,10 +25,6 @@ This project provides a web-based implementation of Tic-Tac-Toe, allowing player
 - Real-time game board updates
 - Ability to reset the game and play again
 
-## Demo
-
-[Add a link to the live demo or screenshots of the game in action]
-
 ## Installation
 
 To run the Tic-Tac-Toe game locally, follow these steps:
